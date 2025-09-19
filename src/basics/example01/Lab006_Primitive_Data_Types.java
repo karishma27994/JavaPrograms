@@ -1,6 +1,6 @@
 package basics.example01;
 
-public class Lab007_Primitive_Data_Types {
+public class Lab006_Primitive_Data_Types {
     public static void main(String[] args) {
         byte b1 = -128, b2=127;
         System.out.println("byte size:" + b1 +"\t"+ b2);
