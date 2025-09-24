@@ -5,6 +5,7 @@ public class Lab018_InstanceOfOperators {
         String s = "Java";
         System.out.println(s instanceof String);
         /*Used with non-primitive data types. It checks the data type and returns true or false
-        “Is this object made from that class (or its child class)?*/
+        “Is this object made from that class (or its child class)?
+        It is used with non-primitive types*/
     }
 }
