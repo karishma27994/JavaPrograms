@@ -1,6 +1,6 @@
 package basics.example01;
 
-public class Lab007_LocalVariables {
+class Lab007_LocalVariables {
     public static void main(String[] args) {
      //To use local variables we must initialize it.
         int a=0;
