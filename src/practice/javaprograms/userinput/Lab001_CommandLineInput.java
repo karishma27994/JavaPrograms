@@ -1,4 +1,4 @@
-package programs.userinput;
+package practice.javaprograms.userinput;
 
 public class Lab001_CommandLineInput {
     public static void main(String[] args) {

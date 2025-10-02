@@ -1,4 +1,4 @@
-package programs.userinput;
+package practice.javaprograms.userinput;
 
 import java.util.Scanner;
 

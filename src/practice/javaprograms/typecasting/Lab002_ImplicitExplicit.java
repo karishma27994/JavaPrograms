@@ -1,4 +1,4 @@
-package programs.typecasting;
+package practice.javaprograms.typecasting;
 
 public class Lab002_ImplicitExplicit {
     public static void main(String[] args) {
