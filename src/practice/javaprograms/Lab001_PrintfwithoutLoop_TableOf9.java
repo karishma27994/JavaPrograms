@@ -1,6 +1,6 @@
 package practice.javaprograms;
 
-public class Lab001_Printf_TableOf9 {
+public class Lab001_PrintfwithoutLoop_TableOf9 {
     public static void main(String[] args) {
         int table = 9;
         System.out.printf("%d * 1 = %d %n",table,table*1);
