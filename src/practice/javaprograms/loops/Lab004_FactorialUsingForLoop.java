@@ -1,5 +1,6 @@
 package practice.javaprograms.loops;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Lab004_FactorialUsingForLoop {
@@ -12,10 +13,10 @@ public class Lab004_FactorialUsingForLoop {
         if (sc.hasNextInt()) //Checks if the next token/value can be interpreted as an integer
         {
             int n = sc.nextInt();  //reads and consumes the integer value
-            if (n < 0 || n == Integer.MAX_VALUE)
+            if (n < 0 )
                 System.out.println("Enter a valid integer value");
             else if (n == 0)
-                    System.out.println("Factorial of a number = " + 1);
+                    System.out.println("Factorial of a zero is: " + 1);
             else {
                 for (int i = 1; i <= n; i++) {
                     fact = fact * i;
