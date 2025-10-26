@@ -10,5 +10,7 @@ public class Lab004_Ternary_RealAgeClassification {
         int age = 59;
         String result = age<18 ? "Minor" : ( age<=59 ? "Adult" : "Senior Citizen");
         System.out.println("Person age is\t"+age + "\tand is\t" + result);
+
+
     }
 }
