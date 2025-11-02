@@ -1,4 +1,4 @@
-package practice.javaprograms.loops;
+package practice.javaprograms.forloop;
 
 public class Lab001_EvenNo_1To50 {
     public static void main(String[] args) {

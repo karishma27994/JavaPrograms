@@ -1,4 +1,4 @@
-package practice.javaprograms.loops;
+package practice.javaprograms.forloop;
 
 public class Lab002_ForUsingBreak {
     public static void main(String[] args) {

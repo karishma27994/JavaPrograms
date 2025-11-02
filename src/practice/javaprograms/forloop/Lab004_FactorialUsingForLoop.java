@@ -1,6 +1,5 @@
-package practice.javaprograms.loops;
+package practice.javaprograms.forloop;
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Lab004_FactorialUsingForLoop {
