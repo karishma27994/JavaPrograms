@@ -1,6 +1,7 @@
 package practice.javaprograms.forloop;
 
 import java.util.Scanner;
+//Print the factorial of a number using a for loop.
 
 public class Lab004_FactorialUsingForLoop {
     public static void main(String[] args) {
